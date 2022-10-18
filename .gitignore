@@ -1,2 +1,3 @@
-.idea
+dir_to_ignore/.idea
+dir_to_ignore/out
 CRUD.iml
