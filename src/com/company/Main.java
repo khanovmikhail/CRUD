@@ -68,7 +68,7 @@ public class Main {
             e.printStackTrace();
         }
 
-        if (args[1].equalsIgnoreCase("m")){
+        if (args[1].equalsIgnoreCase("м")){
             return Person.createMale(args[0], date);
         } else {
             return Person.createFemale(args[0], date);
